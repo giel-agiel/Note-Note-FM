@@ -1,0 +1,47 @@
+{
+  "background": {
+    "color": "#FFF8E6"
+  },
+  "particles": {
+    "number": {
+      "value": 50
+    },
+    "color": {
+      "value": "#000000"
+    },
+    "shape": {
+      "type": "circle"
+    },
+    "opacity": {
+      "value": 0.8
+    },
+    "size": {
+      "value": 5
+    },
+    "move": {
+      "enable": true,
+      "speed": 2
+    },
+    "line_linked": {
+      "enable": true,
+      "distance": 300,
+      "color": "#000000",
+      "opacity": 0.5,
+      "width": 1
+    }
+  },
+  "interactivity": {
+    "events": {
+      "onhover": {
+        "enable": true,
+        "mode": "repulse"
+      }
+    },
+    "modes": {
+      "repulse": {
+        "distance": 100
+      }
+    }
+  },
+  "detectRetina": true
+}

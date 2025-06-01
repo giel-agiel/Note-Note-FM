@@ -1,0 +1,419 @@
+[
+    {
+      "bali": [
+        {
+          "list": [2908, 2909, 2910, 2914, 2916, 2919],
+          "word": "BALI-MTRM.PLN.CAB-MX204.BNG-CPE-01",
+          "writeText":"Bali"
+        },
+        {
+          "list": [2927,2926, 2924, 2921, 2920, 2901, 2903, 2906, 2915, 2917, 2828, 2890, 2889, 2888, 2801,2887,2820],
+          "word": "BALI-KAPAL-NE8000.BNG-CPE-01",
+          "writeText": "Bali"
+        },
+    {
+          "list": [2881, 2882, 2883, 2884],
+          "word": "BALI-KAPAL-MX104.BNG-CPE-01",
+          "writeText": "Bali"
+        },
+    {
+          "list": [2907],
+          "word": "BALI-GI.MAULAFA-MX204.BNG-CPE-01",
+          "writeText": "Bali"
+        },
+    {
+          "list": [2904, 2912, 2922, 2923],
+          "word": "BALI-SHELTER.PESANGGARAN-MX204.BNG-CPE-01",
+          "writeText": "Bali"
+        },
+    {
+          "list": [2911, 2913, 2918, 2928],
+          "word": "BALI-SHELTER.PEMECUTAN-HW.NE8000.M8.BNG-CPE-01",
+          "writeText": "Bali"
+        },
+  {
+          "list": [2902, 2905, 2925],
+          "word": "BALI-GIANYAR-HW.NE8000.M8.BNG-CPE-01",
+          "writeText": "Bali"
+        }
+      ]
+    },
+    {
+      "rkal": [
+        {
+          "list": [2881, 2882, 2883, 2884,2887, 2889],
+          "word": "RKAL-ULIN-MX104.BNG-CPE-01"
+        },
+        {
+          "list": [2919, 2918,  2916, 2922, 2925, 2926, 2927, 2820, 2801,  2888, 2890],
+          "word": "RKAL-ULIN-NE8000.BNG-CPE-01",
+          "writeText": "Banjarmasin"
+        },
+    {
+          "list": [ 2901, 2902, 2903, 2904,2905,2911,2923,2928, 2929, 2931],
+          "word": "RKAL-WILAYAH.PONTIANAK-NE8000.BNG-CPE-01",
+          "writeText": "Pontianak"
+        },
+  {
+          "list": [2907, 2910, 2912, 2913, 2914, 2915, 2933],
+          "word": "RKAL-KARANG.JOANG-MX204.BNG-CPE-01",
+          "writeText": "Banjarmasin"
+        },
+  {
+          "list": [2917, 2920, 2921, 2930, 2932,2934],
+          "word": "RKAL-GI.PALANGKARAYA-MX204.BNG-CPE-01",
+          "writeText": "Banjarmasin"
+        }
+      ]
+    },
+  {
+      "jatim": [
+        {
+          "list": [2881, 2882, 2883, 2884, 2885, 2802, 2830],
+          "word": "JATIM-WARU-MX104.BNG-CPE-01",
+          "writeText": "Surabaya"
+        },
+                {
+          "list": [2801,2802,2828,2830,2887,2888,2889,2890, 2902, 2904, 2934, 2938, 2943, 2947],
+          "word": "JATIM-WARU-NE8000.BNG-CPE-01",
+          "writeText": "Surabaya"
+        },
+          {
+          "list": [2900, 2901, 2935, 2939, 2942, 2946],
+          "word": "JATIM-WARU-NE8000.BNG-CPE-02",
+          "writeText": "Surabaya"
+        },
+    {
+          "list": [2929, 2930,2936, 2941, 2945],
+          "word": "JATIM-GI.KEBON.AGUNG-MX204.BNG-CPE-01",
+          "writeText": "Malang"
+        },
+    {
+          "list": [2917, 2918, 2919, 2920, 2921],
+          "word": "JATIM-SHELTER.GI.MANISREJO-NE8000.BNG-CPE-01",
+          "writeText": "Surabaya"
+        },
+    {
+          "list": [2925, 2926, 2927, 2928, 2937],
+          "word": "JATIM-SHELTER.GI.BANARAN-MX204.BNG-CPE-01",
+          "writeText": "Surabaya"
+        },
+    {
+          "list": [2903, 2906, 2907, 2908, 2909, 2922, 2924, 2944],
+          "word": "JATIM-SAWAHAN-MX204.BNG-CPE-01",
+          "writeText": "Surabaya"
+        },
+      {
+          "list": [],
+          "word": "JATIM-GI.JEMBER-HW.NE8000.M8.BNG-CPE-01",
+          "writeText": "Surabaya"
+        },
+    {
+          "list": [2914, 2915, 2916],
+          "word": "JATIM-GI.BABAT-MX204.BNG-CPE-01",
+          "writeText": "Surabaya"
+        },
+    {
+          "list": [2910, 2911, 2912, 2913, 2931, 2932, 2940],
+          "word": "JATIM-PROBOLINGGO-HW.NE8000.M8.BNG-CPE-01",
+          "writeText": "Surabaya"
+        }
+      ]
+    },
+  {
+      "rit": [
+        {
+          "list": [2900, 2901, 2902, 2903, 2904, 2905, 2906, 2907, 2929],
+          "word": "RIT-SHELTER.PLN.WILAYAH.SULUTENGGO-NE8000.BNG-CPE-01",
+          "writeText": "Makasar"
+        },
+        {
+          "list": [2801,2887,2888, 2889, 2890, 2910, 2911, 2916,2917,2920,2922, 2924,2925,2926,2927, 2928],
+          "word": "RIT-TELLO-NE8000.BNG-CPE-01",
+          "writeText": "Makasar"
+        },
+    {
+          "list": [2881, 2882, 2883, 2884, 2885],
+          "word": "RIT-TELLO-MX104.BNG-CPE-01",
+          "writeText": "Makasar"
+        },
+    {
+          "list": [2912, 2913, 2909, 2908],
+          "word": "RIT-GI.TALISE-MX204.BNG-CPE-01",
+          "writeText": "Makasar"
+        },
+    {
+          "list": [2915, 2923, 2921, 2930],
+          "word": "RIT-SHELTER.GI.TELLO-MX204.BNG-CPE-02",
+          "writeText": "Makasar"
+        }
+      ]
+    },
+  {
+      "sbt": [
+        {
+          "list": [2881, 2882, 2883, 2884, 2885, 2887],
+          "word": "SBT-PEKANBARU-MX104.BNG-CPE-01",
+          "writeText": "Pekanbaru"
+        },
+        {
+          "list": [2801,2888,2889,2890, 2921, 2924, 2926, 2929, 2931, 2933],
+          "word": "SBT-PEKANBARU-NE8000.BNG-CPE-01",
+          "writeText": "Pekanbaru"
+        },
+    {
+          "list": [2907, 2909, 2917, 2923, 2925, 2928, 2930, 2936, 2938],
+          "word": "SBT-PAUHLIMO-NE8000.BNG-CPE-01",
+          "writeText": "Pauhlimo"
+        },
+    {
+          "list": [2914, 2916, 2918, 2920, 2922],
+          "word": "SBT-GRAHAPENA-MX204.BNG-CPE-01",
+          "writeText": "Pekanbaru"
+        },
+    {
+          "list": [2903, 2919, 2932, 2937],
+          "word": "SBT-KILIRANJAO-HUAWEI.NE8000.M8.BNG-CPE-01",
+          "writeText": "Pekanbaru"
+        },
+    {
+          "list": [2901, 2905, 2911, 2912, 2913, 2915,2941],
+          "word": "SBT-PAYAKUMBUH-MX204.BNG-CPE-01",
+          "writeText": "Pekanbaru"
+        },
+    {
+          "list": [2906, 2908, 2910, 2927, 2942],
+          "word": "SBT-GARUDASAKTI-MX204.BNG-CPE-01",
+          "writeText": "Pekanbaru"
+        },
+    {
+          "list": [2902, 2904, 2934, 2935, 2940],
+          "word": "SBT-DURI-HW.NE8000.M8.BNG-CPE-01",
+          "writeText": "Pekanbaru"
+        }
+      ]
+    },
+  {
+      "jkt": [
+        {
+          "list": [2881, 2882, 2883, 2884, 2885],
+          "word": "JKT-GANDUL-MX104.BNG-CPE-01",
+          "writeText": "Jakarta"
+        },
+        {
+          "list": [2801,2828, 2830,2887,2888,2889,2890, 2913, 2914, 2916, 2923, 2931],
+          "word": "JKT-GANDUL-NE8000.BNG-CPE-01",
+          "writeText": "Jakarta"
+        },
+    {
+          "list": [2919, 2920, 2921, 2922, 2930],
+          "word": "JKT-SHELTER.GI.SERANG-NE8000.BNG-CPE-01",
+          "writeText": "Jakarta"
+        },
+    {
+          "list": [],
+          "word": "JKT-SHELTER.BINTARO-NE8000.BNG-CPE-01",
+          "writeText": "Jakarta"
+        },
+    {
+          "list": [2900,2924],
+          "word": "JKT-JABABEKA-NE8000.BNG-CPE-01",
+          "writeText": "Jakarta"
+        },
+    {
+          "list": [2903, 2905, 2906, 2907, 2908, 2910,2911,2912,2936],
+          "word": "JKT-DURI.KOSAMBI-NE8000.BNG-CPE-01",
+          "writeText": "Jakarta"
+        },
+    {
+          "list": [2926, 2927],
+          "word": "JKT-SHELTER.CAWANG-MX204.BNG-CPE-01",
+          "writeText": "Cawang"
+
+        },
+    {
+          "list": [2929, 2928, 2909, 2901],
+          "word": "JKT-SHELTER.APD.GAMBIR-HW.NE8000.M8.BNG-CPE-01",
+          "writeText": "Cawang"
+        },
+                {
+          "list": [2915, 2917, 2925, 2932],
+          "word": "JKT-BOGOR.BARU-HW.NE8000.M8.BNG-CPE-01",
+          "writeText": "Jakarta"
+        }
+      ]
+    },
+  {
+      "sbs": [
+        {
+          "list": [2881, 2882, 2883, 2884, 2885],
+          "word": "SBS-PAYOSELINCAH-MX104.BNG-CPE-01",
+          "writeText": "Jambi"
+        },
+        {
+          "list": [2801,2820,2828, 2887, 2888, 2889, 2890, 2904,2912, 2914, 2919,2942, 2943],
+          "word": "SBS-PAYOSELINCAH-NE8000.BNG-CPE-01",
+          "writeText": "Jambi"
+        },
+    {
+          "list": [2901, 2903, 2905, 2907, 2909],
+          "word": "SBS-RANTING.MENTOK-NE8000.BNG-CPE-01",
+          "writeText": "Jambi"
+        },
+    {
+          "list": [2910,2911, 2913, 2920, 2924, 2922, 2923, 2925, 2926, 2928,2930, 2939],
+          "word": "SBS-BUKITSIGUNTANG-MX204.BNG-CPE-01",
+          "writeText": "Jambi"
+        },
+    {
+          "list": [2935, 2937, 2938],
+          "word": "SBS-NATAR-MX204.BNG-CPE-01",
+          "writeText": "Jambi"
+        },
+  {
+          "list": [2918, 2931, 2932, 2933, 2934, 2941],
+          "word": "SBS-AURDURI-MX204.BNG-CPE-01",
+          "writeText": "Aurduri"
+        },
+  {
+          "list": [2940, 2936, 2927, 2908, 2906, 2902, 2916, 2921, 2929],
+          "word": "SBS-SUKAMERINDU-MX204.BNG-CPE-01",
+          "writeText": "Jambi"
+        },
+  {
+          "list": [2915, 2917, 2944],
+          "word": "SBS-SHELTER.MUARA.BUNGO-HUAWEI.NE8000.M8.BNG-CPE-01",
+          "writeText": "Jambi"
+        }
+      ]
+    },
+  {
+      "sbu": [
+        {
+          "list": [2881, 2882, 2883, 2884, 2885],
+          "word": "SBU-GLUGUR-MX104.BNG-CPE-01"
+        },
+        {
+          "list": [2801, 2820, 2828, 2830, 2887, 2888, 2889,2905,2906,2907,2908,2911,2912, 2913, 2927, 2931],
+          "word": "SBU-GLUGUR-NE8000.BNG-CPE-01",
+          "writeText": "UIK"
+        },
+    {
+          "list": [2903, 2909, 2910, 2914, 2915, 2928, 2930, 2935, 2936],
+          "word": "SBU-TITIKUNING-MX204.BNG-CPE-01",
+          "writeText": "Medan"
+        },
+    {
+          "list": [2900, 2901, 2902, 2904, 2932,2939],
+          "word": "SBU-GI.ACEH-MX204.BNG-CPE-01",
+          "writeText": "Medan"
+        },
+    {
+          "list": [2916, 2917, 2933 , 2937],
+          "word": "SBU-TEBINGTINGGI-MX204.BNG-CPE-01",
+          "writeText": "Medan"
+        },
+  {
+          "list": [2924, 2925, 2926, 2929, 2934],
+          "word": "SBU-SHELTER.SIDEMPUAN-HW.NE8000.M8.BNG-CPE-01",
+          "writeText": "Medan"
+        },
+  {
+          "list": [2923, 2918],
+          "word": "SBU-RANTAUPRAPAT-MX204.BNG-CPE-01",
+          "writeText": "UIK"
+        },
+  {
+          "list": [2919, 2921, 2922],
+          "word": "SBU-SHELTER.TARUTUNG-HW.NE80000.M8.BNG-CPE-01",
+          "writeText": "UIK"
+        }
+      ]
+    },
+  {
+      "jateng": [
+        {
+          "list": [2881, 2882, 2883, 2885],
+          "word": "JATENG-UNGARAN-MX104.BNG-CPE-01"
+        },
+        {
+          "list": [2887, 2801, 2830, 2888, 2889, 2890, 2907, 2908, 2921, 2925, 2927, 2931, 2932],
+          "word": "JATENG-UNGARAN-NE8000.BNG-CPE-01",
+          "writeText": "Semarang"
+        },
+    {
+          "list": [2900, 2903, 2909, 2911,2913,2919, 2922, 2928, 2930,2933],
+          "word": "JATENG-YOGYA.KENTUNGAN-NE8000.BNG-CPE-01",
+          "writeText": "Jogja"
+        },
+      {
+          "list": [2910, 2912, 2914, 2923, 2926, 2929,2936],
+          "word": "JATENG-SHELTER.RAWALO-MX204.BNG-CPE-01" ,
+          "writeText": "Semarang"
+        },
+    {
+          "list": [2905, 2915, 2917],
+          "word": "JATENG-SHELTER.JAJAR-HW.NE8000.M8.BNG-CPE-01",
+          "writeText": "Jogja"
+        },
+    {
+          "list": [2916, 2920],
+          "word": "JATENG-SHELTER.KUDUS-HW.NE8000.M8.BNG-CPE-01",
+          "writeText": "Semarang"
+        },
+  {
+          "list": [2901, 2904],
+          "word": "JATENG-PEMALANG-MX204.BNG-CPE-01",
+          "writeText": "Semarang"
+        },
+    {
+          "list": [2906, 2924],
+          "word": "JATENG-WELERI-MX204.BNG-CPE-01",
+          "writeText": "Semarang"
+        }
+      ]
+    },
+  {
+      "jabar": [
+        {
+          "list": [2881, 2882, 2883, 2884, 2885],
+          "word": "JABAR-UJUNGBERUNG-MX104.BNG-CPE-01",
+          "writeText": "Jabar"
+        },
+        {
+          "list": [2801, 2820, 2828,2887, 2888,2889,2890, 2904, 2921, 2923, 2926,2995,2998],
+          "word": "JABAR-UJUNGBERUNG-NE8000.BNG-CPE-01",
+          "writeText": "Bandung"
+        },
+    {
+          "list": [2911, 2912, 2924, 2931],
+          "word": "JABAR-SHELTER.GI.GARUT-MX204.BNG-CPE-01",
+          "writeText": "Garut"
+        },
+      {
+          "list": [2918, 2919, 2920, 2922, 2928],
+          "word": "JABAR-SHELTER.SUNYARAGI.BARU-MX204.BNG-CPE-01",
+          "writeText": "Bandung"
+        },
+   {
+          "list": [2907, 2908, 2909, 2910],
+          "word": "JABAR-SHELTER.KOSAMBI.BARU-HW.NE8000.M8.BNG-CPE-01",
+          "writeText": "Bandung"
+        },
+   {
+          "list": [2913, 2914, 2915, 2916, 2917, 2927],
+          "word": "JABAR-SHELTER.CIAMIS-HW-NE8000.M8.BNG-CPE-01",
+          "writeText": "Garut"
+        },
+   {
+          "list": [2900, 2901, 2902, 2903, 2925],
+          "word": "JABAR-SHELTER.ACC.CIGERELENG-MX204.BNG-CPE-01",
+          "writeText": "Bandung"
+        },
+   {
+          "list": [2905, 2906, 2929, 2930],
+          "writeText": "Bandung"
+        }
+      ]
+    }
+  ] 
