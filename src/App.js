@@ -4,13 +4,13 @@ import { Routes, Route, useLocation, Navigate } from "react-router-dom";
 import GlobalStyle from "./globalStyles";
 import { lightTheme } from "./components/Themes";
 import Main from "./components/Main";
-import AboutPage from "../components/AboutPage";
-import MySkillsPage from "../components/MySkillsPage";
-import WorkPage from "../components/WorkPage";
+import AboutPage from "./components/AboutPage";
+import MySkillsPage from "./components/MySkillsPage";
+import WorkPage from "./components/WorkPage";
 import { AnimatePresence } from "framer-motion";
 import SoundBar from "./subComponents/SoundBar";
-import Wall from "../components/Wall";
-import OltConfigForm from "../components/OltConfigForm";
+import Wall from "./components/Wall";
+import OltConfigForm from "./components/OltConfigForm";
 import LoginScreen from "./components/LoginScreen";
 
 function App() {
