@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.js": "/Note-Note-FM/static/js/main.a95b1969.js",
+    "main.css": "/Note-Note-FM/static/css/main.2a9a26f2.css",
+    "main.js": "/Note-Note-FM/static/js/main.9088f582.js",
     "static/media/u-said-it-v13-1167.mp3": "/Note-Note-FM/static/media/u-said-it-v13-1167.949cee7ea4a6ad9499db.mp3",
     "static/media/cartoon.webp": "/Note-Note-FM/static/media/cartoon.1d773f24c3c164416f2c.webp",
     "static/media/spaceman.webp": "/Note-Note-FM/static/media/spaceman.93e58d14127b7210c669.webp",
     "index.html": "/Note-Note-FM/index.html",
-    "main.a95b1969.js.map": "/Note-Note-FM/static/js/main.a95b1969.js.map"
+    "main.2a9a26f2.css.map": "/Note-Note-FM/static/css/main.2a9a26f2.css.map",
+    "main.9088f582.js.map": "/Note-Note-FM/static/js/main.9088f582.js.map"
   },
   "entrypoints": [
-    "static/js/main.a95b1969.js"
+    "static/css/main.2a9a26f2.css",
+    "static/js/main.9088f582.js"
   ]
 }
